@@ -1,0 +1,112 @@
+16:21:30.113 [main] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+16:21:30.867 [main] INFO  testCase.TC_001_AccountRegistration - ***clciked on register link***
+16:21:30.873 [main] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+17:01:37.427 [main] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+17:01:38.171 [main] INFO  testCase.TC_001_AccountRegistration - ***clciked on register link***
+17:01:38.178 [main] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+14:17:58.023 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+14:17:58.689 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistration - ***clciked on register link***
+14:17:58.702 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+14:18:00.478 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+14:18:01.180 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistration - ***clciked on register link***
+14:18:01.184 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+12:10:40.926 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+12:10:42.846 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistration - ***clciked on register link***
+12:10:42.857 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+12:12:04.815 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+12:12:04.935 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+12:12:06.296 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistration - ***clciked on register link***
+12:12:06.304 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+12:12:06.345 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistration - ***clciked on register link***
+12:12:06.355 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+13:03:08.772 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+13:03:10.309 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistration - ***clciked on register link***
+13:03:10.318 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+13:03:10.320 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+13:03:10.862 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistration - ***clciked on register link***
+13:03:10.866 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+13:03:10.884 [TestNG-tests-2] ERROR testCase.TC_001_AccountRegistration - test failed
+13:03:11.275 [TestNG-tests-1] ERROR testCase.TC_001_AccountRegistration - test failed
+13:06:14.086 [main] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+13:06:14.788 [main] INFO  testCase.TC_001_AccountRegistration - ***clciked on register link***
+13:06:14.797 [main] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+13:11:58.873 [main] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+13:11:59.509 [main] INFO  testCase.TC_001_AccountRegistration - ***clciked on register link***
+13:11:59.515 [main] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+15:05:48.550 [main] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+15:05:51.324 [main] INFO  testCase.TC_001_AccountRegistration - ***clciked on register link***
+15:05:51.327 [main] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+15:05:57.857 [main] INFO  testCase.TC_002_LoginTest - ************Starting test case of Tc_002_Test************
+15:05:59.819 [main] INFO  testCase.TC_002_LoginTest - ********Account overview page************
+15:07:47.600 [main] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+15:07:48.346 [main] INFO  testCase.TC_001_AccountRegistration - ***clciked on register link***
+15:07:48.351 [main] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+15:07:56.803 [main] INFO  testCase.TC_002_LoginTest - ************Starting test case of Tc_002_Test************
+15:07:57.684 [main] INFO  testCase.TC_002_LoginTest - ********Account overview page************
+15:10:31.920 [main] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+15:10:32.613 [main] INFO  testCase.TC_001_AccountRegistration - ***clciked on register link***
+15:10:32.621 [main] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+15:10:39.865 [main] INFO  testCase.TC_002_LoginTest - ************Starting test case of Tc_002_Test************
+15:10:41.045 [main] INFO  testCase.TC_002_LoginTest - ********Account overview page************
+15:10:41.099 [main] INFO  testCase.TC_002_LoginTest - ********Finised login test***********
+17:00:10.110 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+17:00:10.868 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+17:00:21.171 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+17:00:21.666 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+17:00:31.919 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+17:00:32.481 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+17:00:42.734 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+17:00:43.375 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+17:00:53.656 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+17:00:54.121 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+17:01:04.442 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+17:01:04.912 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+17:02:40.563 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+17:02:41.342 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+17:02:51.696 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+17:02:52.243 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+17:03:02.536 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+17:03:03.335 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+17:03:13.603 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+17:03:14.394 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+17:03:24.661 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+17:03:25.449 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+17:03:35.757 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+17:03:37.997 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+17:03:38.888 [main] INFO  testCase.TC_03_LoginDDT - ********Finised login test***********
+15:13:44.692 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+15:13:45.528 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+15:13:55.923 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+15:13:56.569 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+15:14:06.911 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+15:14:07.470 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+15:14:17.782 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+15:14:18.578 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+15:14:28.865 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+15:14:29.698 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+15:14:40.069 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+15:14:40.656 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+15:15:06.668 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+15:15:07.458 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+15:15:17.886 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+15:15:18.433 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+15:15:28.675 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+15:15:29.197 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+15:15:39.515 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+15:15:40.123 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+15:15:50.361 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+15:15:51.008 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+15:16:01.238 [main] INFO  testCase.TC_03_LoginDDT - ************Starting test case of Tc_002_Test************
+15:16:01.755 [main] INFO  testCase.TC_03_LoginDDT - ********Account overview page************
+15:18:31.309 [main] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+15:18:31.946 [main] INFO  testCase.TC_001_AccountRegistration - ***clicked on register link***
+15:18:31.956 [main] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+15:33:09.401 [main] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+15:33:10.007 [main] INFO  testCase.TC_001_AccountRegistration - ***clicked on register link***
+15:33:10.011 [main] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+15:37:58.001 [main] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+15:37:59.564 [main] INFO  testCase.TC_001_AccountRegistration - ***clicked on register link***
+15:37:59.573 [main] INFO  testCase.TC_001_AccountRegistration - provinding customer data
+15:59:03.141 [main] INFO  testCase.TC_001_AccountRegistration - ******Starting TC_001_AccountRegistration******* 
+15:59:04.686 [main] INFO  testCase.TC_001_AccountRegistration - ***clicked on register link***
+15:59:04.692 [main] INFO  testCase.TC_001_AccountRegistration - provinding customer data
